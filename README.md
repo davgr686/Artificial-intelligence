@@ -1,5 +1,9 @@
 # Artificial-intelligence
-Artificial intelligence TDDC17 HT 2018 lab 1 Vacuum Agent
+Artificial intelligence TDDC17 HT 2018 lab 1 Vacuum Agent. Worked with ottodenesfay
+
+
+
+ENVIRONMENT:
 
 The main window of the application is divided into two parts: the environment visualization pane on the left and the text output pane which displays the redirected System.out.
 
